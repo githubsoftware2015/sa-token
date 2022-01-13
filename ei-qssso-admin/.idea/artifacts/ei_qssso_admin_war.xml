@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="ei-qssso-admin:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="ei-qssso-admin-1.0.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="ei-qssso-admin:war exploded" />
-    </root>
-  </artifact>
-</component>
